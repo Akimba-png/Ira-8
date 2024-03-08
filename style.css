@@ -6,11 +6,11 @@ body {
   margin: 0;
   padding: 0;
   height: 100%;
+  background-color: lightgray;
 }
 
 .container {
   width: 320px;
-  background-color: lightgray;
   margin: 0 auto;
   min-height: 100%;
 }
@@ -33,16 +33,16 @@ body {
   border: none;
   color: white;
   background-color: inherit;
-  padding: 10px 20px;
+  padding: 20px 20px;
   cursor: pointer;
+  font-size: 22px;
 }
 
 .header {
-  margin-bottom: 200px;
+  margin-bottom: 50px;
 }
 
 .title {
-
   font-size: 300px;
   width: 50%;
   margin: auto;
